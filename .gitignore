@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ruff_cache/
+.DS_Store
+
+# Advent of Code asks not to share puzzle texts and inputs
+input.txt
+example.txt
+!template/*.txt
